@@ -4,6 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/peperd/crypto-api?logo=Github)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/peperd/crypto-api&left_color=green&right_color=red)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/scrapy) 
+![Black](https://img.shields.io/badge/code_style-black-black)
 
 This scraper parse ***exchange rates, tickers, depth, 
 and asks & bids trades*** on pairs: `eth - btc`, `btc - usdt`, 
